@@ -28,6 +28,7 @@ Welcome to **All You Need Is This**! Stop drowning in bookmarks and endless brow
 ## 🧭 Contents
 
 - [📱 Android Modding](#-android-modding)
+- [🧪 Testing and QA](#-testing-and-qa)
 - [🤝 Contributing](#-contributing)
 
 ---
@@ -36,6 +37,12 @@ Welcome to **All You Need Is This**! Stop drowning in bookmarks and endless brow
 
 * [morphe-patches (rushiranpise)](https://github.com/rushiranpise/morphe-patches) - Essential patches for Morphe, used for advanced Android application modification and customization.
 * [morphe-patches (hxreborn)](https://github.com/hxreborn/morphe-patches) - Community-driven and alternative patchsets for the Morphe ecosystem to tweak and mod Android apps.
+
+---
+
+## 🧪 Testing and QA
+
+* [agent-qa](https://vostride.com) - Open source natural-language web, Android and iOS QA with memidex persistent memory, reviewable self-improvement and run evidence. FSL-1.1-ALv2; model and infrastructure costs are separate. [Source](https://github.com/vostride/agent-qa).
 
 ---
 
